@@ -1,58 +1,40 @@
-html{
-text-align: center;  
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
 }
 
-#yeet{
-position: absolute;
-overflow: hidden;
-height: 400px;
-color: #FFFFFF;
-left: 0;
-top: 0;
-bottom: 0;
-right: 0;
-opacity; 0.83;
-background: linear-gradient(red 0%, orange 100%); 
-display: table;
-width: 100%; height: 100%   
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: red;
 }
 
-.profile{
-width: 175px;
-border-radius: 50%;    
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
 }
 
-h1{
-font-size: 40px;
-line-height: 1.2;
-font-family: monospace;    
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
 }
 
-#lol{
-font-size: 40px;
+#myCarouse2
+{
+    width: 100%;
+    background-color: #b5d0d4;
 }
 
-.menu{
-list-style: none;
-font-family: cursive;
-float: right;
-top: 10px;
-right: 30px;
-cursor: pointer;
-color: black;    
-}
-
-#eheheheheheh{
-position: absolute;
-overflow: hidden;
-height: 400px;
-color: #FFFFFF;
-left: 0;
-top: 0;
-bottom: 0;
-right: 0;
-opacity; 0.83;
-background: linear-gradient(blue 0%, cyan 100%); 
-display: table;
-width: 100%; height: 100%   
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
 }
